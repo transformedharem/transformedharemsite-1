@@ -19,6 +19,19 @@ h1, h2, h3, h4, h5, h6 {
 	color: #997867;
 }
 
+         .box1 { 
+         margin-left: 555px;
+         width:500px;
+         padding-top:5px;
+         border-style:solid;
+         border-color:#00FFFFFF;
+         border-width:1px;
+         padding-left:3px;
+         padding-bottom:10px;
+         word-wrap: break-word;
+         }
+
+
 a {
 	text-decoration: none;
 	color: #825037;
