@@ -2,14 +2,14 @@
 function codeAddress() {
 if ((/Android/i.test(navigator.userAgent))) {
           location.replace("https://www.royalroad.com/fiction/63864/")
-          alert('android');
+          alert('Website not mobile compatible yet!');
 
     // go to Google Play Store
 
 }
 if (/iPad|iPhone|iPod/i.test(navigator.userAgent)) {
           location.replace("https://www.royalroad.com/fiction/63864/")
-          alert('apple');
+          alert('Website not mobile compatible yet!');
 
 //<!-- 	location.replace("https://www.w3schools.com")-->
     // go to App Store
