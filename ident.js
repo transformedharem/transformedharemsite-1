@@ -1,4 +1,4 @@
-
+/**
 function codeAddress() {
 if ((/Android/i.test(navigator.userAgent))) {
           location.replace("https://www.royalroad.com/fiction/63864/")
@@ -21,3 +21,4 @@ else {
     // go to another website
 }        }
 window.onload = codeAddress;
+**/
